@@ -1,116 +1,97 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Md Maaz</h1>
-  <h3>Data Scientist | Python Developer | Machine Learning Enthusiast</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/mdmaaz2302" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="mailto:mdmaaz2302@gmail.com" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-    </a>
-  </p>
+
+<h1>Hi there 👋, I'm Mohammad Maaz</h1>
+
+<h3>Aspiring Data Scientist | Python • SQL • Tableau • Machine Learning</h3>
+<h4>IBM, Google Cloud & AWS Certified | Open to Data Science Internships</h4>
+
+<p>
+  <a href="https://www.linkedin.com/in/mdmaaz2302" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:mdmaaz2302@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
 </div>
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate **Data Scientist** and **Python Developer** with a strong foundation in **Electronics & Communication Engineering**. Currently pursuing the **IBM Data Science Professional Certificate** on Coursera, I specialize in transforming complex data into actionable insights and building intelligent machine learning solutions.
+I'm a Data Science enthusiast from India building a strong foundation in **Python, SQL, Machine Learning, and Data Visualization**. I'm completing my Diploma in Electronics & Communication Engineering at Al-Kabir Polytechnic (2022–2025) while gaining hands-on expertise in Data Science and AI through industry-recognized certifications and applied, end-to-end projects.
 
-- 🎓 **Electronics & Communication Engineering** Diploma Student
-- 🤖 Currently learning **Machine Learning** and **Advanced Data Science** through **IBM Data Science Professional Certificate** on Coursera
-- 💻 Proficient in **Python**, **SQL**, **Pandas**, **NumPy**, and **Data Visualization**
-- 🔬 Specialized in **Supervised Learning**, **Data Analysis**, and **Statistical Modeling**
-- 🌍 Seeking internship opportunities in **Germany** (Data Science & AI roles)
-- 📍 Based in **Begusarai, Bihar, India**
+- 🎓 Diploma in **Electronics & Communication Engineering**, Al-Kabir Polytechnic
+- 📜 **21+ certifications**, including IBM Data Science Methodology, Google Cloud Generative AI Leader, and AWS Cloud Practitioner Essentials
+- 💻 Proficient in **Python, SQL, Pandas, NumPy, Scikit-learn**, and data visualization tools
+- 📊 Experienced in **exploratory data analysis, predictive modeling, and dashboard design**
+- 🌍 Actively seeking **Data Science / Data Analyst internships**, especially in Germany, and remote roles worldwide
+- 🏎️ Long-term goal: applying data science to **Formula 1 performance and strategy analytics**
 
 ---
 
 ## 🚀 Technical Skills
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages:** Python, SQL, R, Java, C++
 
-### **Data Science & ML Libraries**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-6BA3D6?style=for-the-badge&logo=python&logoColor=white)
+**Libraries & Frameworks:** Pandas, NumPy, TensorFlow, Scikit-learn
 
-### **Tools & Platforms**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 
----
+**Cloud:** Google Cloud Platform, AWS, IBM Cloud
 
-## 💡 Current Focus
-
-✅ Building end-to-end **data science projects** from data collection to deployment  
-✅ Mastering **supervised learning algorithms** and model optimization  
-✅ Developing expertise in **data visualization** and **storytelling**  
-✅ Contributing to **open-source projects** and building portfolio  
-✅ Preparing for **data science internships** in Germany
+**Tools:** Git/GitHub, Jupyter Notebook, VS Code, Excel
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 **MaazDataProject**
-Data analysis and exploration using Python with real-world datasets
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Statistical Analysis
+### 🔹 The Science of the Perfect Pit Stop: A 101K-Lap F1 Data Deep Dive
+Cleaned 101,371 F1 lap records, built SQL strategy queries, and trained a Random Forest model (ROC-AUC 0.889) predicting pit-stop timing and tyre strategy.
 
-### 🔹 **MaazDataScienceProjrct**
-Machine learning implementations and tutorials
-- Supervised Learning Models
-- Model Evaluation & Comparison
-- Jupyter Notebooks with detailed explanations
+### 🔹 Cracking the Pit Wall II: Tyre Degradation Forecasting
+Built a leakage-safe forecasting pipeline on 2024 São Paulo GP telemetry using FastF1 and HistGradientBoostingRegressor, cutting prediction error by 53% versus a baseline.
+
+### 🔹 WEC Reliability Analysis: Predicting Race Retirement (DNF) Risk, 2011–2023
+End-to-end ML pipeline on 12 years of endurance racing data, using a Random Forest classifier (ROC-AUC 0.73) to predict race retirement risk.
+
+### 🔹 SpaceX Launch & Landing Success Analysis
+Analyzed 205 Falcon 9 launches; built a Random Forest model predicting landing success with 88% accuracy and 86.3% ROC-AUC.
+
+### 🔹 Superstore Sales & Profit Dashboard
+Interactive Tableau dashboard analyzing $2.3M in sales across 4 regions with geospatial analysis, customer segmentation, and forecasting.
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmaaz2302&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmaaz2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaaz2302&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaaz2302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 📚 **Diploma in Electronics & Communication Engineering**
-- 🏆 **IBM Data Science Professional Certificate** (In Progress - Coursera)
-- 🐍 **Python Programming** (Self-taught)
-- 📊 **Data Science & Machine Learning Fundamentals** (Online Courses)
+- 📚 **Diploma in Electronics & Communication Engineering** — Al-Kabir Polytechnic (2022–2025)
+- 🏆 **IBM** — Data Science Methodology, Tools for Data Science, Generative AI
+- ☁️ **Google Cloud** — Generative AI Leader Specialization
+- ☁️ **AWS** — Cloud Practitioner Essentials
+- 📈 **University of California, Davis** — Data Visualization with Tableau
+- *(21+ certifications total — full list on LinkedIn)*
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mdmaaz2302"><b>💼 LinkedIn</b></a> • 
-  <a href="mailto:mdmaaz2302@gmail.com"><b>📧 Email</b></a> • 
-  <a href="https://github.com/mdmaaz2302"><b>🐙 GitHub</b></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdmaaz2302">💼 LinkedIn</a> •
+  <a href="mailto:mdmaaz2302@gmail.com">📧 Email</a>
+</p>
 
----
-
-## 💬 Open to Collaborations
-
-✨ I'm always interested in:  
-🔹 Collaborating on **data science projects**  
-🔹 Contributing to **open-source initiatives**  
-🔹 Discussing **machine learning** concepts  
-🔹 Exploring **internship opportunities** in Europe
-
----
-
-<div align="center">
-  <i>"Transforming data into insights, one algorithm at a time."</i>
-  <br>
-  <a href="https://github.com/mdmaaz2302">⭐ Explore My Repositories</a>
-</div>
+<p align="center"><i>"Transforming data into insights, one algorithm at a time."</i></p>
