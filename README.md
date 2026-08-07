@@ -51,48 +51,42 @@ I'm a Data Science enthusiast from India building a strong foundation in **Pytho
 ### 🔹 The Science of the Perfect Pit Stop: A 101K-Lap F1 Data Deep Dive
 Cleaned 101,371 F1 lap records, built SQL strategy queries, and trained a Random Forest model (ROC-AUC 0.889) predicting pit-stop timing and tyre strategy.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=The-Science-of-the-Perfect-Pit-Stop-A-101K-Lap-F1-Data-Deep-Dive&theme=tokyonight&hide_border=true" alt="Perfect Pit Stop Repo Card" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mdmaaz2302&repo=The-Science-of-the-Perfect-Pit-Stop-A-101K-Lap-F1-Data-Deep-Dive&theme=tokyonight&hide_border=true" alt="Perfect Pit Stop Repo Card" />
 
 ### 🔹 Cracking the Pit Wall II: Tyre Degradation Forecasting
 Built a leakage-safe forecasting pipeline on 2024 São Paulo GP telemetry using FastF1 and HistGradientBoostingRegressor, cutting prediction error by 53% versus a baseline.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=Cracking-the-Pit-Wall-II-Tyre-Degradation-Race-Pace-Modeling&theme=tokyonight&hide_border=true" alt="Tyre Degradation Repo Card" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mdmaaz2302&repo=Cracking-the-Pit-Wall-II-Tyre-Degradation-Race-Pace-Modeling&theme=tokyonight&hide_border=true" alt="Tyre Degradation Repo Card" />
 
 ### 🔹 WEC Reliability Analysis: Predicting Race Retirement (DNF) Risk, 2011–2023
 End-to-end ML pipeline on 12 years of endurance racing data, using a Random Forest classifier (ROC-AUC 0.73) to predict race retirement risk.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=WEC-Reliability-Analysis-Predicting-Race-Retirement-DNF-Risk-2011-2023&theme=tokyonight&hide_border=true" alt="WEC Reliability Repo Card" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mdmaaz2302&repo=WEC-Reliability-Analysis-Predicting-Race-Retirement-DNF-Risk-2011-2023&theme=tokyonight&hide_border=true" alt="WEC Reliability Repo Card" />
 
 ### 🔹 SpaceX Launch & Landing Success Analysis
 Analyzed 205 Falcon 9 launches; built a Random Forest model predicting landing success with 88% accuracy and 86.3% ROC-AUC.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=SpaceX-Launch-Landing-Success-Analysis&theme=tokyonight&hide_border=true" alt="SpaceX Analysis Repo Card" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mdmaaz2302&repo=SpaceX-Launch-Landing-Success-Analysis&theme=tokyonight&hide_border=true" alt="SpaceX Analysis Repo Card" />
 
 ### 🔹 Superstore Sales & Profit Dashboard
 Interactive Tableau dashboard analyzing $2.3M in sales across 4 regions with geospatial analysis, customer segmentation, and forecasting.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=tableau-superstore-dashboard&theme=tokyonight&hide_border=true" alt="Superstore Dashboard Repo Card" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mdmaaz2302&repo=tableau-superstore-dashboard&theme=tokyonight&hide_border=true" alt="Superstore Dashboard Repo Card" />
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmaaz2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaaz2302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mdmaaz2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdmaaz2302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmaaz2302&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmaaz2302&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmaaz2302&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdmaaz2302&theme=tokyonight&no-frame=true&row=1&column=6)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmaaz2302&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdmaaz2302&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -109,11 +103,6 @@ Interactive Tableau dashboard analyzing $2.3M in sales across 4 regions with geo
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdmaaz2302">💼 LinkedIn</a> •
-  <a href="mailto:mdmaaz2302@gmail.com">📧 Email</a>
-</p>
+[💼 LinkedIn](https://www.linkedin.com/in/mdmaaz2302) • [📧 Email](mailto:mdmaaz2302@gmail.com)
 
-<p align="center"><i>"Transforming data into insights, one algorithm at a time."</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+*"Transforming data into insights, one algorithm at a time."*
