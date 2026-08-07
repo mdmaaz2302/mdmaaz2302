@@ -1,18 +1,17 @@
 <div align="center">
 
-<h1>Hi there 👋, I'm Mohammad Maaz</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mohammad%20Maaz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Tableau%20%E2%80%A2%20ML&descAlignY=55&descSize=18" width="100%"/>
 
-<h3>Aspiring Data Scientist | Python • SQL • Tableau • Machine Learning</h3>
-<h4>IBM, Google Cloud & AWS Certified | Open to Data Science Internships</h4>
+<a href="https://www.linkedin.com/in/mdmaaz2302" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:mdmaaz2302@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/mdmaaz2302" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:mdmaaz2302@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Tableau+%7C+Scikit-learn;IBM+%2F+Google+Cloud+%2F+AWS+Certified;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=mdmaaz2302&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -33,15 +32,17 @@ I'm a Data Science enthusiast from India building a strong foundation in **Pytho
 
 ## 🚀 Technical Skills
 
-**Languages:** Python, SQL, R, Java, C++
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,git,github,vscode,jupyter,tableau,powerbi,gcp,aws" />
+</p>
 
-**Libraries & Frameworks:** Pandas, NumPy, TensorFlow, Scikit-learn
-
-**Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-
-**Cloud:** Google Cloud Platform, AWS, IBM Cloud
-
-**Tools:** Git/GitHub, Jupyter Notebook, VS Code, Excel
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
@@ -67,11 +68,20 @@ Interactive Tableau dashboard analyzing $2.3M in sales across 4 regions with geo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmaaz2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmaaz2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaaz2302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaaz2302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmaaz2302&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmaaz2302&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmaaz2302&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
@@ -95,3 +105,5 @@ Interactive Tableau dashboard analyzing $2.3M in sales across 4 regions with geo
 </p>
 
 <p align="center"><i>"Transforming data into insights, one algorithm at a time."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
