@@ -51,17 +51,27 @@ I'm a Data Science enthusiast from India building a strong foundation in **Pytho
 ### 🔹 The Science of the Perfect Pit Stop: A 101K-Lap F1 Data Deep Dive
 Cleaned 101,371 F1 lap records, built SQL strategy queries, and trained a Random Forest model (ROC-AUC 0.889) predicting pit-stop timing and tyre strategy.
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=The-Science-of-the-Perfect-Pit-Stop-A-101K-Lap-F1-Data-Deep-Dive&theme=tokyonight&hide_border=true" alt="Perfect Pit Stop Repo Card" />
+
 ### 🔹 Cracking the Pit Wall II: Tyre Degradation Forecasting
 Built a leakage-safe forecasting pipeline on 2024 São Paulo GP telemetry using FastF1 and HistGradientBoostingRegressor, cutting prediction error by 53% versus a baseline.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=Cracking-the-Pit-Wall-II-Tyre-Degradation-Race-Pace-Modeling&theme=tokyonight&hide_border=true" alt="Tyre Degradation Repo Card" />
 
 ### 🔹 WEC Reliability Analysis: Predicting Race Retirement (DNF) Risk, 2011–2023
 End-to-end ML pipeline on 12 years of endurance racing data, using a Random Forest classifier (ROC-AUC 0.73) to predict race retirement risk.
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=WEC-Reliability-Analysis-Predicting-Race-Retirement-DNF-Risk-2011-2023&theme=tokyonight&hide_border=true" alt="WEC Reliability Repo Card" />
+
 ### 🔹 SpaceX Launch & Landing Success Analysis
 Analyzed 205 Falcon 9 launches; built a Random Forest model predicting landing success with 88% accuracy and 86.3% ROC-AUC.
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=SpaceX-Launch-Landing-Success-Analysis&theme=tokyonight&hide_border=true" alt="SpaceX Analysis Repo Card" />
+
 ### 🔹 Superstore Sales & Profit Dashboard
 Interactive Tableau dashboard analyzing $2.3M in sales across 4 regions with geospatial analysis, customer segmentation, and forecasting.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmaaz2302&repo=tableau-superstore-dashboard&theme=tokyonight&hide_border=true" alt="Superstore Dashboard Repo Card" />
 
 ---
 
